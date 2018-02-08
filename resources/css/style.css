@@ -14,6 +14,10 @@ h2 {
   font-weight: 300;
   font-size: 42px;
   color: white;
+.p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
 }
 .download {
   color: Aquamarine;
